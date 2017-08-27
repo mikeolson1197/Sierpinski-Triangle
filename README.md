@@ -1,0 +1,3 @@
+I like Java and fractals are cool too.
+
+Java will always be one of my favorite languages. It was how I learned to code in my first computer science in high school. When we were discussing recursion in this class, we were given the option to try and create a program to draw the Sierpinski Triangle. It wasn’t graded, it was just something to do for fun. I’ve always liked recursion so I went for it. I am still very proud of the work I did on this project. This was far from an easy assignment for a young coder, but I stuck with it and eventually got it all to work.
